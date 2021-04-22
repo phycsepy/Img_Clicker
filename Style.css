@@ -1,0 +1,11 @@
+.image{
+    width:600px;
+    height :600px;
+    opacity: 0.9;
+    background-color: azure;
+
+}
+
+body{
+    background-color: aqua;
+}
